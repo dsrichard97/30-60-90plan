@@ -1,5 +1,5 @@
 # 30-60-90plan
 
-# Welcome to My Portfolio
+# Welcome to My Plan
 
-Check out my HTML/CSS portfolio [here]().
+Check out my HTML/CSS portfolio [here](https://dsrichard97.github.io/30-60-90plan/).
